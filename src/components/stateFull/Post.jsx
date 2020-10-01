@@ -7,6 +7,7 @@ export default class Post extends Component {
         <h2>{this.props.case}</h2>
         <p>{this.props.death}</p>
         <p>{this.props.recover}</p>
+        <h1> Pantau terus covidnya gan </h1>
       </div>
     );
   }
